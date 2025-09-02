@@ -1,18 +1,30 @@
 {
   "toast": {
-    "languageUpdated": "言語が更新されました",
-    "themeDark": "(ダークテーマ) に切り替えました",
-    "themeLight": "(ライトテーマ) に切り替えました"
+    "languageUpdated": "指定された言語に切り替えました",
+    "themeDark": "切り替えました (ダークテーマ)",
+    "themeLight": "切り替えました (ライトテーマ)"
   },
-  "selectLanguage": "言語を選択",
-  "bykeon-service": "ByKeon サービス",
+  "global": {
+    "copy": "コピー",
+    "delete": "削除",
+    "download": "ダウンロード",
+    "link": "リンク",
+    "reset": "リセット",
+    "share": "共有",
+    "goBack": "戻る",
+    "copyok": "コピーされました (指定データ)",
+    "copyng": "コピーできませんでした (指定データ)",
+    "shareCopied": "コピーされました (共有リンク)",
+    "selectLanguage": "言語を選択"
+  },
+  "bykeon-service": "ByKeonサービス",
   "easy2get": "簡単に取得",
-  "yourIp": "あなたの IP アドレス",
-  "QR-Code-Name": "QR コードサービス",
-  "QR-Make-Name": "QR コードを生成",
-  "QR-Make-Desc": "内容を入力して即時に QR コードを生成",
-  "QR-Load-Name": "QR コードを読み込み",
-  "QR-Load-Desc": "画像ファイルから QR コードを解析",
-  "QR-Scan-Name": "QR コードをスキャン",
-  "QR-Scan-Desc": "カメラで実物の QR コードをスキャン"
+  "yourIp": "あなたのIPアドレス",
+  "QR-Code-Name": "QRコードサービス",
+  "QR-Make-Name": "QRコード生成",
+  "QR-Make-Desc": "内容を入力すると即座にQRコードを生成します",
+  "QR-Load-Name": "QRコード読み込み",
+  "QR-Load-Desc": "画像ファイルからQRコードを解析",
+  "QR-Scan-Name": "QRコードスキャン",
+  "QR-Scan-Desc": "カメラを使って物理的なQRコードをスキャン"
 }

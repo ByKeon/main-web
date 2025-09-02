@@ -10,4 +10,8 @@
   .hover-border {
     @apply dark:hover:border-black;
   }
+
+  .hr-line {
+    @apply border-t border-gray-300;
+  }
 }

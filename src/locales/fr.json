@@ -1,18 +1,30 @@
 {
   "toast": {
-    "languageUpdated": "La langue a été mise à jour",
-    "themeDark": "Passé au (thème sombre)",
-    "themeLight": "Passé au (thème clair)"
+    "languageUpdated": "Passé à la langue spécifiée",
+    "themeDark": "Passé à (Thème sombre)",
+    "themeLight": "Passé à (Thème clair)"
   },
-  "selectLanguage": "Choisir la langue",
+  "global": {
+    "copy": "Copier",
+    "delete": "Supprimer",
+    "download": "Télécharger",
+    "link": "Lien",
+    "reset": "Réinitialiser",
+    "share": "Partager",
+    "goBack": "Retour",
+    "copyok": "Copié (données spécifiées)",
+    "copyng": "Impossible de copier (données spécifiées)",
+    "shareCopied": "Lien de partage copié",
+    "selectLanguage": "Choisir la langue"
+  },
   "bykeon-service": "Service ByKeon",
   "easy2get": "Facile à obtenir",
   "yourIp": "Votre adresse IP",
   "QR-Code-Name": "Service de code QR",
   "QR-Make-Name": "Générer un code QR",
-  "QR-Make-Desc": "Entrez du contenu pour générer un code QR instantanément",
-  "QR-Load-Name": "Charger un code QR",
-  "QR-Load-Desc": "Analyser un code QR à partir d’un fichier image",
-  "QR-Scan-Name": "Scanner un code QR",
-  "QR-Scan-Desc": "Utilisez la caméra pour scanner un code QR physique"
+  "QR-Make-Desc": "Entrez le contenu pour générer instantanément un code QR",
+  "QR-Load-Name": "Charger le code QR",
+  "QR-Load-Desc": "Analyser un code QR depuis un fichier image",
+  "QR-Scan-Name": "Scanner le code QR",
+  "QR-Scan-Desc": "Utiliser la caméra pour scanner un code QR physique"
 }

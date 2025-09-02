@@ -4,7 +4,19 @@
     "themeDark": "已切換為【深色主題】",
     "themeLight": "已切換為【淺色主題】"
   },
-  "selectLanguage": "選擇語系",
+  "global": {
+    "copy": "複製",
+    "delete": "刪除",
+    "download": "下載",
+    "link": "連結",
+    "reset": "重置",
+    "share": "分享",
+    "goBack": "返回",
+    "copyok": "已複製【指定資料】",
+    "copyng": "無法複製【指定資料】",
+    "shareCopied": "已複製【分享連結】",
+    "selectLanguage": "選擇語系"
+  },
   "bykeon-service": "ByKeon 服務網",
   "easy2get": "簡單地取得",
   "yourIp": "您的 IP 位址",

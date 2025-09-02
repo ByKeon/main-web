@@ -81,7 +81,7 @@ export function MainPage() {
           <h2 className="font-bold text-xl">{t('QR-Code-Name')}</h2>
         </div>
 
-        <div className="w-full border-t group-hover:border-black" />
+        <hr className="w-full hr-line group-hover:border-black" />
 
         <div className="p-8 flex flex-col gap-4">
           {LIST_QrMode.map((mode) => {
