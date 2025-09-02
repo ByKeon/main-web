@@ -1,0 +1,18 @@
+{
+  "toast": {
+    "languageUpdated": "El idioma ha sido cambiado",
+    "themeDark": "Cambiado al (tema oscuro)",
+    "themeLight": "Cambiado al (tema claro)"
+  },
+  "selectLanguage": "Seleccionar idioma",
+  "bykeon-service": "Servicio ByKeon",
+  "easy2get": "Fácil de obtener",
+  "yourIp": "Su dirección IP",
+  "QR-Code-Name": "Servicio de código QR",
+  "QR-Make-Name": "Generar código QR",
+  "QR-Make-Desc": "Ingrese contenido para generar un código QR al instante",
+  "QR-Load-Name": "Cargar código QR",
+  "QR-Load-Desc": "Analizar el código QR desde un archivo de imagen",
+  "QR-Scan-Name": "Escanear código QR",
+  "QR-Scan-Desc": "Usar la cámara para escanear un código QR físico"
+}

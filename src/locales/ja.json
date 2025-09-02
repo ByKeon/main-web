@@ -1,0 +1,18 @@
+{
+  "toast": {
+    "languageUpdated": "言語が更新されました",
+    "themeDark": "(ダークテーマ) に切り替えました",
+    "themeLight": "(ライトテーマ) に切り替えました"
+  },
+  "selectLanguage": "言語を選択",
+  "bykeon-service": "ByKeon サービス",
+  "easy2get": "簡単に取得",
+  "yourIp": "あなたの IP アドレス",
+  "QR-Code-Name": "QR コードサービス",
+  "QR-Make-Name": "QR コードを生成",
+  "QR-Make-Desc": "内容を入力して即時に QR コードを生成",
+  "QR-Load-Name": "QR コードを読み込み",
+  "QR-Load-Desc": "画像ファイルから QR コードを解析",
+  "QR-Scan-Name": "QR コードをスキャン",
+  "QR-Scan-Desc": "カメラで実物の QR コードをスキャン"
+}
