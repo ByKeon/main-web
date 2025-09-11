@@ -1,4 +1,3 @@
-import i18n from '@/i18n';
 import { toast } from 'react-hot-toast';
 import { useCallback, useState } from 'react';
 import { useTranslation } from 'react-i18next';
@@ -7,7 +6,7 @@ import { type TYPE_Lang } from '@/config/TYPE_Lang';
 import { switchLocale } from '@/utils/switchLocale';
 
 export function useSwitchLang() {
-  const { t } = useTranslation();
+  const { i18n, t } = useTranslation();
   const [prevLang, setPrevLang] = useState(i18n.language);
 
   return useCallback(
