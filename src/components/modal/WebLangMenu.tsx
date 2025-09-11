@@ -6,12 +6,12 @@ import clsx from 'clsx';
 import { LIST_Lang, type TYPE_Lang } from '@/config/TYPE_Lang';
 import { useSwitchLang } from '@/hooks/useSwitchLang';
 
-interface ModalProps_WebLang {
+interface If_Modal_WebLang {
   isModalOpen: boolean;
   onCloseModal: () => void;
 }
 
-export function WebLangMenu({ isModalOpen, onCloseModal }: ModalProps_WebLang) {
+export function WebLangMenu({ isModalOpen, onCloseModal }: If_Modal_WebLang) {
   const { t, i18n } = useTranslation();
   const switchLang = useSwitchLang();
   const showKnownName = true;
