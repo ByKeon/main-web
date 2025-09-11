@@ -14,7 +14,7 @@ export function useSwitchLang() {
       if (nextLang !== prevLang) {
         setPrevLang(nextLang);
         await switchLocale(nextLang);
-        toast.success(t('toast.languageUpdated'));
+        toast.success(t('toast.languageSwitched'));
       }
     },
     [t, prevLang]

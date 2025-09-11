@@ -1,8 +1,8 @@
 {
   "toast": {
-    "languageUpdated": "指定された言語に切り替えました",
-    "themeDark": "切り替えました (ダークテーマ)",
-    "themeLight": "切り替えました (ライトテーマ)"
+    "languageSwitched": "言語が切り替わりました",
+    "themeDark": "(ダークテーマ)に切り替えました",
+    "themeLight": "(ライトテーマ)に切り替えました"
   },
   "global": {
     "copy": "コピー",
@@ -12,19 +12,19 @@
     "reset": "リセット",
     "share": "共有",
     "goBack": "戻る",
-    "copyok": "コピーされました (指定データ)",
-    "copyng": "コピーできませんでした (指定データ)",
-    "shareCopied": "コピーされました (共有リンク)",
+    "copyok": "(選択したデータ)をコピーしました",
+    "copyng": "(選択したデータ)をコピーできません",
+    "shareCopied": "(共有リンク)をコピーしました",
     "selectLanguage": "言語を選択"
   },
-  "bykeon-service": "ByKeonサービス",
+  "bykeon-service": "ByKeon サービス",
   "easy2get": "簡単に取得",
   "yourIp": "あなたのIPアドレス",
   "QR-Code-Name": "QRコードサービス",
   "QR-Make-Name": "QRコード生成",
-  "QR-Make-Desc": "内容を入力すると即座にQRコードを生成します",
+  "QR-Make-Desc": "内容を入力してQRコードを即座に生成",
   "QR-Load-Name": "QRコード読み込み",
   "QR-Load-Desc": "画像ファイルからQRコードを解析",
   "QR-Scan-Name": "QRコードスキャン",
-  "QR-Scan-Desc": "カメラを使って物理的なQRコードをスキャン"
+  "QR-Scan-Desc": "カメラで実物のQRコードをスキャン"
 }

@@ -47,10 +47,10 @@ async function dynamicLocale(nextLang: TYPE_Lang) {
 }
 
 export async function initLocale() {
-  const findLang = (i18n.language || 'en').split('-')[0] as string;
+  const findLang = (i18n.language || 'tw').split('-')[0] as string;
   const nextLang = LIST_Lang.includes(findLang as TYPE_Lang)
     ? (findLang as TYPE_Lang)
-    : 'en';
+    : 'tw';
   if (!i18n.hasResourceBundle(nextLang, 'translation')) {
     await switchLocale(nextLang);
   }

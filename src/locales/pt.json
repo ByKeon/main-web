@@ -1,8 +1,8 @@
 {
   "toast": {
-    "languageUpdated": "Alterado para o idioma especificado",
-    "themeDark": "Alterado para (Tema escuro)",
-    "themeLight": "Alterado para (Tema claro)"
+    "languageSwitched": "Idioma alterado",
+    "themeDark": "Alterado para (Tema Escuro)",
+    "themeLight": "Alterado para (Tema Claro)"
   },
   "global": {
     "copy": "Copiar",
@@ -12,19 +12,19 @@
     "reset": "Redefinir",
     "share": "Compartilhar",
     "goBack": "Voltar",
-    "copyok": "(Dados especificados) copiados",
-    "copyng": "Não foi possível copiar (dados especificados)",
+    "copyok": "(Dados selecionados) copiados",
+    "copyng": "Não foi possível copiar (dados selecionados)",
     "shareCopied": "(Link de compartilhamento) copiado",
     "selectLanguage": "Selecionar idioma"
   },
   "bykeon-service": "Serviço ByKeon",
   "easy2get": "Fácil de obter",
   "yourIp": "Seu endereço IP",
-  "QR-Code-Name": "Serviço de Código QR",
-  "QR-Make-Name": "Gerar Código QR",
-  "QR-Make-Desc": "Digite o conteúdo para gerar instantaneamente um código QR",
-  "QR-Load-Name": "Carregar Código QR",
-  "QR-Load-Desc": "Analisar código QR a partir de arquivo de imagem",
-  "QR-Scan-Name": "Escanear Código QR",
-  "QR-Scan-Desc": "Use a câmera para escanear um QR code físico"
+  "QR-Code-Name": "Serviço de QR Code",
+  "QR-Make-Name": "Gerar QR Code",
+  "QR-Make-Desc": "Digite o conteúdo para gerar QR Code instantaneamente",
+  "QR-Load-Name": "Carregar QR Code",
+  "QR-Load-Desc": "Analisar QR Code a partir de arquivo de imagem",
+  "QR-Scan-Name": "Escanear QR Code",
+  "QR-Scan-Desc": "Usar câmera para escanear QR Code físico"
 }

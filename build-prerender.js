@@ -54,6 +54,10 @@ function cleanDom(document) {
     document.querySelectorAll(sel).forEach((el) => el.remove())
   );
 
+  ['.removeSEO'].forEach((sel) =>
+    document.querySelectorAll(sel).forEach((el) => el.remove())
+  );
+
   // 移除 data 屬性 (例如 data-rht-toaster)
   document.querySelectorAll('[data-rht-toaster]').forEach((el) => el.remove());
 

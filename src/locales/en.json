@@ -1,6 +1,6 @@
 {
   "toast": {
-    "languageUpdated": "Switched to the specified language",
+    "languageSwitched": "Language switched",
     "themeDark": "Switched to (Dark Theme)",
     "themeLight": "Switched to (Light Theme)"
   },
@@ -12,9 +12,9 @@
     "reset": "Reset",
     "share": "Share",
     "goBack": "Go Back",
-    "copyok": "Copied (specified data)",
-    "copyng": "Unable to copy (specified data)",
-    "shareCopied": "Copied (share link)",
+    "copyok": "(Selected data) copied",
+    "copyng": "Unable to copy (selected data)",
+    "shareCopied": "(Share link) copied",
     "selectLanguage": "Select Language"
   },
   "bykeon-service": "ByKeon Service",
@@ -22,9 +22,9 @@
   "yourIp": "Your IP address",
   "QR-Code-Name": "QR Code Service",
   "QR-Make-Name": "Generate QR Code",
-  "QR-Make-Desc": "Enter content to instantly generate a QR code",
+  "QR-Make-Desc": "Enter content to generate QR Code instantly",
   "QR-Load-Name": "Load QR Code",
-  "QR-Load-Desc": "Analyze QR code from an image file",
+  "QR-Load-Desc": "Analyze QR Code from image file",
   "QR-Scan-Name": "Scan QR Code",
-  "QR-Scan-Desc": "Use camera to scan a physical QR code"
+  "QR-Scan-Desc": "Use camera to scan physical QR Code"
 }

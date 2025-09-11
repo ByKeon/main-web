@@ -1,6 +1,6 @@
 {
   "toast": {
-    "languageUpdated": "已切换为指定语系",
+    "languageSwitched": "语言已切换",
     "themeDark": "已切换为【深色主题】",
     "themeLight": "已切换为【浅色主题】"
   },
@@ -15,15 +15,15 @@
     "copyok": "已复制【指定资料】",
     "copyng": "无法复制【指定资料】",
     "shareCopied": "已复制【分享链接】",
-    "selectLanguage": "选择语系"
+    "selectLanguage": "选择语言"
   },
   "bykeon-service": "ByKeon 服务网",
-  "easy2get": "简单地取得",
+  "easy2get": "轻松获取",
   "yourIp": "您的 IP 地址",
-  "QR-Code-Name": "QR码服务网",
+  "QR-Code-Name": "QR 码服务网",
   "QR-Make-Name": "生成 QR 码",
-  "QR-Make-Desc": "输入内容即时生成 QR 码",
-  "QR-Load-Name": "载入 QR 码",
+  "QR-Make-Desc": "输入内容即可生成 QR 码",
+  "QR-Load-Name": "加载 QR 码",
   "QR-Load-Desc": "分析图片文件中的 QR 码",
   "QR-Scan-Name": "扫描 QR 码",
   "QR-Scan-Desc": "使用相机扫描实体 QR 码"

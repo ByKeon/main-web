@@ -1,6 +1,6 @@
 {
   "toast": {
-    "languageUpdated": "已切換為指定語系",
+    "languageSwitched": "語系已切換",
     "themeDark": "已切換為【深色主題】",
     "themeLight": "已切換為【淺色主題】"
   },
